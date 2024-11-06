@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Max!</h1>
   
-  ![Profile photo](./assets/profile-photo.jpg)
+  ![Profile photo](./assets/profile-photo.png)
 
   [![](https://visitcount.itsvg.in/api?id=maxidevs&icon=0&color=6)](https://visitcount.itsvg.in)  
 </div>
