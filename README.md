@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Max!</h1>
-  
-  ![Profile photo](./assets/profile-photo.jpg)
+  <img src="./assets/profile-photo.jpg" alt="Profile photo" width="200" height="200" style="border-radius: 50%;">
 
   [![](https://visitcount.itsvg.in/api?id=maxidevs&icon=0&color=6)](https://visitcount.itsvg.in)  
 </div>
